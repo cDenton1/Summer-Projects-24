@@ -40,5 +40,8 @@ https://tryhackme.com/r/room/linuxfilesystemanalysis and https://tryhackme.com/r
 **April 30th**: Went through some fundamentals and got my second badge, **cat linux.txt** <br /> 
 https://tryhackme.com/r/room/linuxfundamentalspart1 and https://tryhackme.com/r/room/linuxfundamentalspart2 <br /> <br />
 
-**May 1st**: Finished the fundamentals and leveled up to level 4 today <br />
-https://tryhackme.com/r/room/linuxfundamentalspart3 <br />
+**May 1st**: Finished the fundamentals and leveled up to level 4 <br />
+https://tryhackme.com/r/room/linuxfundamentalspart3 <br /> <br />
+
+**May 2nd**: Continued on one of the first rooms I started this summer, ... <br />
+https://tryhackme.com/r/room/linuxmodules <br /> <br />

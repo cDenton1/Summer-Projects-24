@@ -37,7 +37,7 @@ The project - https://www.codedex.io/community/project-showcase/wrhhOvosaCsEV5lz
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
 
 **My Account**: https://tryhackme.com/p/cDenton <br />
-<img src="https://tryhackme.com/badge/2321275">
+<img src="https://tryhackme-badges.s3.amazonaws.com/cDenton.png" alt="TryHackMe"> <br /> <br />
 
 **April 29th**: Completed the first room, started the second but had taken a break to try some other ones <br />
 https://tryhackme.com/r/room/linuxfilesystemanalysis and https://tryhackme.com/r/room/linuxmodules <br /> <br />

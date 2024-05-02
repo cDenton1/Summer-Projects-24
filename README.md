@@ -1,5 +1,11 @@
 # Summer-Projects-24
-Besides working all summer, I also wanted to work on a bunch of projects and just continue learning as well. That is why I made this repository, a way for me to easily compile everything and anything I worked on in one place; small projects, big projects, useful resources, whatever. All of it will be accessible through links on this file or folders in the repository. Keeps me accountable to update, gives me something to look back on in the fall, and might even motivate me to do again next summer.
+Besides working all summer, I also wanted to work on a bunch of projects and just continue learning as well. That is why I made this repository, a way for me to easily compile everything and anything I worked on in one place; small projects, big projects, useful resources, whatever. All of it will be accessible through links on this file or folders in the repository. Keeps me accountable to update, gives me something to look back on in the fall, and might even motivate me to do again next summer. <br /> <br />
+
+### Table of Contents
+- [Resources](## Resources)
+- [Codedex - Programming](## Codedex - Programming)
+- [TryHackMe - Networking](## TryHackMe - Networking)
+<br /> <br />
 
 ## Resources
 Any sort of resource I find or someone sends me that I find useful will be linked below along with descriptions <br />

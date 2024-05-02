@@ -7,7 +7,7 @@ Any sort of resource I find or someone sends me that I find useful will be linke
 **TryHackMe Free Rooms** - literally a GitHub repository that lists only free rooms (I used this to get back into TryHackMe), https://github.com/winterrdog/tryhackme-free-rooms
 
 ## Codedex - Programming
-First thing I picked up for the summer, learning to code in Python and just working on my coding skills overall and just in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my builds, projects, and account: <br />
+First thing I picked up for the summer, learning to code in Python and working on my coding skills overall and just in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my builds, projects, and account: <br />
 
 **My Account**: https://www.codedex.io/@treegoat1 <br /> <br />
 

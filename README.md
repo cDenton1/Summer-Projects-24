@@ -15,10 +15,10 @@ Any sort of resource I find or someone sends me that I find useful will be linke
 ## Codedex - Programming
 First thing I picked up for the summer, learning to code in Python and working on my coding skills overall and just in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my builds, projects, and account: <br />
 
-**My Account**: https://www.codedex.io/@treegoat1 <br /> <br />
+**My Account**: https://www.codedex.io/@treegoat1 <br />
 
-#30NitesOfCode: [Check out my progress!](https://www.codedex.io/@treegoat1/30-nites-of-code) <br />
-  ![@treegoat1 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=treegoat1) <br /> <br />
+**#30NitesOfCode**: [Check out my progress!](https://www.codedex.io/@treegoat1/30-nites-of-code) <br />
+  ![@treegoat1 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=treegoat1) <br />
 
 **April 28th-29th**: Began the #30NitesOfCode challenge, which is updated daily on X <br />
 This is for day 1 and day 2, which I just worked on making a calculator with different modes <br />

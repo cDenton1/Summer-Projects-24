@@ -7,7 +7,7 @@ Any sort of resource I find or someone sends me that I find useful will be linke
 **TryHackMe Free Rooms** - literally a GitHub repository that lists only free rooms (I used this to get back into TryHackMe), https://github.com/winterrdog/tryhackme-free-rooms
 
 ## Codedex - Programming
-First thing I picked up for the summer, learning to code in Python and just working on my coding skills overall and just in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my builds, projects, and account: <br /> <br />
+First thing I picked up for the summer, learning to code in Python and just working on my coding skills overall and just in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my builds, projects, and account: <br />
 
 **My Account**: https://www.codedex.io/@treegoat1 <br /> <br />
 
@@ -24,7 +24,7 @@ Bit of a repeat lab from my 2nd semester but more of a challenge <br />
 https://www.codedex.io/@treegoat1/hexadecimal,-decimal,-and-binary-conversions <br /> <br />
 
 ## TryHackMe - Networking
-Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br /> <br />
+Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
 
 **My Account**: https://tryhackme.com/p/cDenton <br /> <br />
 

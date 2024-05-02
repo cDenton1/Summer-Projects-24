@@ -6,11 +6,25 @@ Any sort of resource I find or someone sends me that I find useful will be linke
 **W3Schools** - useful for any sort of programming help in pretty much any language, https://www.w3schools.com/ <br />
 **TryHackMe Free Rooms** - literally a GitHub repository that lists only free rooms (I used this to get back into TryHackMe), https://github.com/winterrdog/tryhackme-free-rooms
 
-## Codedex
-First thing I picked up in this past week, learning to code in Python and just working on coding overall and in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my random builds, projects, and account: <br />
+## Codedex Logs
+First thing I picked up in this past week, learning to code in Python and just working on coding overall and in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my random builds, projects, and account: <br /> <br />
 
-## TryHackMe
+**My Account**: https://tryhackme.com/p/cDenton <br /> <br />
+
+**April 28th-29th**: Began #30NitesOfCode, for day 1 and day 2 I just worked on making a calculator with different modes, reached level 3 on the 29th <br />
+https://www.codedex.io/@treegoat1/calculator-attempt <br /> <br />
+
+**April 30th**: Worked through some lessons and released my first project, a simple roman numerals convertor <br /> 
+The build - https://www.codedex.io/@treegoat1/roman-numerals-to-decimal-conversion <br />
+The post - https://www.codedex.io/community/project-showcase/XZSFMzlhvJEK75gbloOP <br /> <br />
+
+**May 1st**: Began a new build, a hexadecimal, binary and decimal convertor. Harder than the other things I've programmed so far. <br />
+https://www.codedex.io/@treegoat1/hexadecimal,-decimal,-and-binary-conversions <br /> <br />
+
+## TryHackMe Logs
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br /> <br />
+
+**My Account**: https://tryhackme.com/p/cDenton <br /> <br />
 
 **April 29th**: Completed the first room, started the second but had taken a break to try some other ones <br />
 https://tryhackme.com/r/room/linuxfilesystemanalysis and https://tryhackme.com/r/room/linuxmodules <br /> <br />

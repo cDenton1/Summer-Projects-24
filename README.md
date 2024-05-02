@@ -9,9 +9,9 @@ Any sort of resource I find or someone sends me that I find useful will be linke
 ## Codedex Logs
 First thing I picked up in this past week, learning to code in Python and just working on coding overall and in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my random builds, projects, and account: <br /> <br />
 
-**My Account**: https://tryhackme.com/p/cDenton <br /> <br />
+**My Account**: https://www.codedex.io/@treegoat1 <br /> <br />
 
-**April 28th-29th**: Began #30NitesOfCode, for day 1 and day 2 I just worked on making a calculator with different modes, reached level 3 on the 29th <br />
+**April 28th-29th**: Began #30NitesOfCode, for day 1 and day 2 I just worked on making a calculator with different modes <br />
 https://www.codedex.io/@treegoat1/calculator-attempt <br /> <br />
 
 **April 30th**: Worked through some lessons and released my first project, a simple roman numerals convertor <br /> 

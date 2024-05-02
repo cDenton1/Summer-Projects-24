@@ -29,6 +29,10 @@ The post - https://www.codedex.io/community/project-showcase/XZSFMzlhvJEK75gbloO
 Bit of a repeat lab from my 2nd semester but more of a challenge <br />
 https://www.codedex.io/@treegoat1/hexadecimal,-decimal,-and-binary-conversions <br /> <br />
 
+**May 2nd**: Finished up the build I started yesterday for day 5 of #30NitesOfCode <br />
+Along with completing and posting this small project, I compiled some of the progress for TikTok <br />
+The project - https://www.codedex.io/community/project-showcase/wrhhOvosaCsEV5lzHtKW <br /> <br />
+
 ## TryHackMe - Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
 

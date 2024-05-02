@@ -3,7 +3,7 @@ Besides working all summer, I also wanted to work on a bunch of projects and jus
 
 ## Codedex
 First thing I picked up in this past week, learning to code in Python and just working on coding overall and in general. <br />
-Main way I'm doing this is through <b />Codedex<b />, an online code editor that also includes lessons, challenges, projects and a community to work through it with. <br />
+Main way I'm doing this is through <b />Codedex</ b>, an online code editor that also includes lessons, challenges, projects and a community to work through it with. <br />
 Listed below will be links and comments to some of my random builds, projects, and account: <br />
 
 ## TryHackMe

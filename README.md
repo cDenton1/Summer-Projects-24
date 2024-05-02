@@ -12,11 +12,11 @@ First thing I picked up in this past week, learning to code in Python and just w
 ## TryHackMe
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br /> <br />
 
-**April 29th**: First room I decided to try, which led to working on the next 3 <br />
-https://tryhackme.com/r/room/linuxfilesystemanalysis <br /> <br />
+**April 29th**: Completed the first room, started the second but had taken a break to try some other ones <br />
+https://tryhackme.com/r/room/linuxfilesystemanalysis and https://tryhackme.com/r/room/linuxmodules <br /> <br />
 
-**April 30th**: Got my second badge in TryHackMe, **cat linux.txt** <br /> 
+**April 30th**: Went through some fundamentals and got my second badge, **cat linux.txt** <br /> 
 https://tryhackme.com/r/room/linuxfundamentalspart1 and https://tryhackme.com/r/room/linuxfundamentalspart2 <br /> <br />
 
-**May 1st**: Leveled up to level 4 today <br />
+**May 1st**: Finished the fundamentals and leveled up to level 4 today <br />
 https://tryhackme.com/r/room/linuxfundamentalspart3 <br />

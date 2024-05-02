@@ -14,7 +14,7 @@ Listed below will be links and comments to some of my random builds, projects, a
 ## TryHackMe
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. <br /> <br />
 
-Listed below will be links and comments to rooms I worked on and completed, as well as my account: <br />
+### Listed below will be links and comments to rooms I worked on and completed, as well as my account: <br />
 **April 29th**: First room I decided to try, which led to working on the next 3 <br />
 https://tryhackme.com/r/room/linuxfilesystemanalysis <br /> <br />
 

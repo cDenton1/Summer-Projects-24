@@ -17,6 +17,9 @@ First thing I picked up for the summer, learning to code in Python and working o
 
 **My Account**: https://www.codedex.io/@treegoat1 <br /> <br />
 
+#30NitesOfCode: [Check out my progress!](https://www.codedex.io/@treegoat1/30-nites-of-code) <br />
+  ![@treegoat1 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=treegoat1) <br /> <br />
+
 **April 28th-29th**: Began the #30NitesOfCode challenge, which is updated daily on X <br />
 This is for day 1 and day 2, which I just worked on making a calculator with different modes <br />
 https://www.codedex.io/@treegoat1/calculator-attempt <br /> <br />

@@ -22,7 +22,7 @@ First thing I picked up for the summer, learning to code in Python and working o
 
 **April 28th-29th**: Began the #30NitesOfCode challenge, which is updated daily on X <br />
 This is for day 1 and day 2, which I just worked on making a calculator with different modes <br />
-https://www.codedex.io/@treegoat1/calculator-attempt <br /> <br />
+https://www.codedex.io/@treegoat1/calculator <br /> <br />
 
 **April 30th**: Worked through some lessons and released my first project, a simple roman numerals convertor <br /> 
 The build - https://www.codedex.io/@treegoat1/roman-numerals-to-decimal-conversion <br />
@@ -36,9 +36,8 @@ https://www.codedex.io/@treegoat1/hexadecimal,-decimal,-and-binary-conversions <
 Along with completing and posting this small project, I compiled some of the progress for TikTok <br />
 The project - https://www.codedex.io/community/project-showcase/wrhhOvosaCsEV5lzHtKW <br /> <br />
 
-**May 3rd**: Literally just finished the build that I had started for day 1 and 2, posted my progress on <br />
-Twitter and put this link in the #30NitesOfCode section just for me to lose all my progress when it reloaded <br />
-Here is the post - https://x.com/ClickCreated/status/1786488741437006289 <br /> <br />
+**May 3rd**: Working on and finished the build that I had started for day 1 and 2<br />
+The build - https://www.codedex.io/@treegoat1/calculator <br /> <br />
 
 ## TryHackMe - Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />

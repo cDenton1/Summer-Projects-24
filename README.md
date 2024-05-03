@@ -54,5 +54,6 @@ https://tryhackme.com/r/room/linuxfundamentalspart3 <br />
 **May 2nd**: Continued and finished the Linux Modules room <br />
 https://tryhackme.com/r/room/linuxmodules <br /> <br />
 
-**May 3rd**: ... <br />
-... <br /> <br />
+**May 3rd**: Looked over some CTF rooms but instead did some x86 Architecture Overview and Pentesting rooms <br />
+x86 Architecture - https://tryhackme.com/r/room/x8664arch <br />
+Pentesting - https://tryhackme.com/r/room/basicpentestingjt <br /> <br />

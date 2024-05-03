@@ -51,5 +51,8 @@ https://tryhackme.com/r/room/linuxfundamentalspart1 and https://tryhackme.com/r/
 https://tryhackme.com/r/room/linuxfundamentalspart3 <br />
 <img src="https://tryhackme-badges.s3.amazonaws.com/cDenton.png" alt="TryHackMe"> <br /> <br />
 
-**May 2nd**: Continued and finished one of the first rooms I started this summer <br />
+**May 2nd**: Continued and finished the Linux Modules room <br />
 https://tryhackme.com/r/room/linuxmodules <br /> <br />
+
+**May 3rd**: ... <br />
+... <br /> <br />

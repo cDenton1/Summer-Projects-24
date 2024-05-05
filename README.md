@@ -62,4 +62,4 @@ Pretty much stuff I learned in OSI and Computer Architecture, wasn't surprised <
 https://tryhackme.com/r/room/x8664arch <br /> <br />
 
 **May 4th**: Decided to go over some basic tutorial rooms <br />
-https://tryhackme.com/r/room/howtousetryhackme <br /> <br />
+https://tryhackme.com/r/room/howtousetryhackme and https://tryhackme.com/r/room/tutorial <br /> <br />

@@ -60,3 +60,6 @@ https://tryhackme.com/r/room/linuxmodules <br /> <br />
 **May 3rd**: Looked over some CTF rooms but instead did an x86 Architecture Overview room <br />
 Pretty much stuff I learned in OSI and Computer Architecture, wasn't surprised <br />
 https://tryhackme.com/r/room/x8664arch <br /> <br />
+
+**May 4th**: Decided to go over some basic tutorial rooms <br />
+https://tryhackme.com/r/room/howtousetryhackme <br /> <br />

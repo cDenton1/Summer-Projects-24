@@ -67,4 +67,5 @@ https://tryhackme.com/r/room/x8664arch <br /> <br />
 https://tryhackme.com/r/room/howtousetryhackme and https://tryhackme.com/r/room/tutorial <br /> <br />
 
 **May 5th**: Completed another introduction room, this time for SIEM <br />
+Also got my third badge, **7 Day Streak**, aiming to keep a streak going all summer if possible <br />
 https://tryhackme.com/r/room/introtosiem <br /> <br />

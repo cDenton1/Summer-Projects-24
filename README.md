@@ -39,7 +39,8 @@ The project - https://www.codedex.io/community/project-showcase/wrhhOvosaCsEV5lz
 **May 3rd**: Working on and finished the build that I had started for day 1 and 2<br />
 The build - https://www.codedex.io/@treegoat1/calculator <br /> <br />
 
-**May 4th-5th**: Started working through HTML lessons to change it up a bit, kept these days pretty basic <br /> <br />
+**May 4th-5th**: Started working through HTML lessons to change it up a bit, kept these days pretty basic <br />
+My little #30NitesOfCode buddy, Hux, evolved (he's the little gif closer to the top of the page) <br /> <br />
 
 ## TryHackMe - Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />

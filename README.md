@@ -54,7 +54,7 @@ https://tryhackme.com/r/room/linuxfundamentalspart1 and https://tryhackme.com/r/
 
 **May 1st**: Finished the fundamentals and leveled up to level 4 <br />
 https://tryhackme.com/r/room/linuxfundamentalspart3 <br />
-<img src="https://tryhackme-badges.s3.amazonaws.com/cDenton.png" alt="TryHackMe"> <br /> <br />
+<img src="https://tryhackme.com/badge/2321275"> <br /> <br />
 
 **May 2nd**: Continued and finished the Linux Modules room <br />
 https://tryhackme.com/r/room/linuxmodules <br /> <br />

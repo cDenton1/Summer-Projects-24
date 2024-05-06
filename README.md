@@ -39,7 +39,7 @@ The project - https://www.codedex.io/community/project-showcase/wrhhOvosaCsEV5lz
 **May 3rd**: Working on and finished the build that I had started for day 1 and 2<br />
 The build - https://www.codedex.io/@treegoat1/calculator <br /> <br />
 
-**May 4th**: Started working through HTML lessons to change it up a bit, kept today pretty basic <br /> <br />
+**May 4th-5th**: Started working through HTML lessons to change it up a bit, kept these days pretty basic <br /> <br />
 
 ## TryHackMe - Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
@@ -65,3 +65,6 @@ https://tryhackme.com/r/room/x8664arch <br /> <br />
 
 **May 4th**: Decided to go over some basic tutorial rooms <br />
 https://tryhackme.com/r/room/howtousetryhackme and https://tryhackme.com/r/room/tutorial <br /> <br />
+
+**May 5th**: Completed another introduction room, this time for SIEM <br />
+https://tryhackme.com/r/room/introtosiem <br /> <br />

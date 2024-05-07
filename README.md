@@ -12,7 +12,7 @@ Any sort of resource I find or someone sends me that I find useful will be linke
 **W3Schools** - useful for any sort of programming help in pretty much any language, https://www.w3schools.com/ <br />
 **TryHackMe Free Rooms** - literally a GitHub repository that lists only free rooms (I used this to get back into TryHackMe), https://github.com/winterrdog/tryhackme-free-rooms
 
-## Codedex - Programming
+## Programming
 First thing I picked up for the summer, learning to code in Python and working on my coding skills overall and just in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my builds, projects, and account: <br />
 
 **My Account**: https://www.codedex.io/@treegoat1 <br />
@@ -42,7 +42,11 @@ The build - https://www.codedex.io/@treegoat1/calculator <br /> <br />
 **May 4th-5th**: Started working through HTML lessons to change it up a bit, kept these days pretty basic <br />
 My little #30NitesOfCode buddy, Hux, evolved (he's the little gif closer to the top of the page) <br /> <br />
 
-## TryHackMe - Networking
+**May 6th**: Did a little bit on Codedex on Python, wanted to keep my streak going on there <br />
+Spent a good chunk of time learning about Terrform and getting it setup to try and work on <br />
+Terrform tutorial: https://developer.hashicorp.com/terraform/tutorials/azure-get-started/infrastructure-as-code <br /> <br />
+
+## Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
 
 **My Account**: https://tryhackme.com/p/cDenton <br /> <br />
@@ -70,3 +74,6 @@ https://tryhackme.com/r/room/howtousetryhackme and https://tryhackme.com/r/room/
 **May 5th**: Completed another introduction room, this time for SIEM <br />
 Also got my third badge, **7 Day Streak**, aiming to keep a streak going all summer if possible <br />
 https://tryhackme.com/r/room/introtosiem <br /> <br />
+
+**May 6th**: Started my new job today at CNRL and got to learn abit about VOSS and the phone system <br />
+Did a little bit on THM, ... <br /> <br />

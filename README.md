@@ -76,4 +76,4 @@ Also got my third badge, **7 Day Streak**, aiming to keep a streak going all sum
 https://tryhackme.com/r/room/introtosiem <br /> <br />
 
 **May 6th**: Started my new job today at CNRL and got to learn abit about VOSS and the phone system <br />
-Did a little bit on THM, ... <br /> <br />
+Did a little bit of networking on THM, https://tryhackme.com/r/room/introtonetworking <br /> <br />

@@ -84,4 +84,4 @@ Did a little bit of networking on THM, https://tryhackme.com/r/room/introtonetwo
 **May 7th**: For work today continued on learning and working with VOSS and the phone network <br />
 Finished a Python room, counting that for both the coding and networking today <br />
 Python Basics room - https://tryhackme.com/r/room/pythonbasics and leveled up to level 5 <br /> 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cDenton.png" alt="TryHackMe"> <br /> <br />
+![image](https://github.com/cDenton1/Summer-Projects-24/assets/163344926/ada7c86d-fe3c-4fec-94f1-a069ec8c3525) <br /> <br />

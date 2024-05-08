@@ -81,6 +81,7 @@ https://tryhackme.com/r/room/introtosiem <br /> <br />
 **May 6th**: Started my new job today at CNRL and got to learn abit about VOSS and the phone system <br />
 Did a little bit of networking on THM, https://tryhackme.com/r/room/introtonetworking <br /> <br />
 
-**May 7th**: Started a Python room, counting that for both the coding and networking today <br />
-Python Basics room - https://tryhackme.com/r/room/pythonbasics <br />
-For work today continued on learning and working with VOSS and the phone network <br /> <br />
+**May 7th**: For work today continued on learning and working with VOSS and the phone network <br />
+Finished a Python room, counting that for both the coding and networking today <br />
+Python Basics room - https://tryhackme.com/r/room/pythonbasics and leveled up to level 5 <br /> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/cDenton.png" alt="TryHackMe"> <br /> <br />

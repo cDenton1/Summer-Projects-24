@@ -42,9 +42,12 @@ The build - https://www.codedex.io/@treegoat1/calculator <br /> <br />
 **May 4th-5th**: Started working through HTML lessons to change it up a bit, kept these days pretty basic <br />
 My little #30NitesOfCode buddy, Hux, evolved (he's the little gif closer to the top of the page) <br /> <br />
 
-**May 6th**: Did a little bit on Codedex on Python, wanted to keep my streak going on there <br />
+**May 6th**: Did a little bit of Python on Codedex, wanted to keep my streak going on there <br />
 Spent a good chunk of time learning about Terrform and getting it setup to try and work on <br />
 Terrform tutorial: https://developer.hashicorp.com/terraform/tutorials/azure-get-started/infrastructure-as-code <br /> <br />
+
+**May 7th**: Continued with Terraform and actually got through a lot of the tutorial <br />
+Did a little bit of Python on Codedex and went through a Python basics room on TryHackMe <br /> <br />
 
 ## Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
@@ -77,3 +80,7 @@ https://tryhackme.com/r/room/introtosiem <br /> <br />
 
 **May 6th**: Started my new job today at CNRL and got to learn abit about VOSS and the phone system <br />
 Did a little bit of networking on THM, https://tryhackme.com/r/room/introtonetworking <br /> <br />
+
+**May 7th**: Started a Python room, counting that for both the coding and networking today <br />
+Python Basics room - https://tryhackme.com/r/room/pythonbasics <br />
+For work today continued on learning and working with VOSS and the phone network <br /> <br />

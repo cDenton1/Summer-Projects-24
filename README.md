@@ -86,4 +86,4 @@ Finished a Python room, counting that for both the coding and networking today <
 Python Basics room - https://tryhackme.com/r/room/pythonbasics and leveled up to level 5 <br /> <br />
 
 **May 8th**: Continued with learning VOSS, completing tickets in the ticket system and Terraform <br />
-Made a virtual machine through Terraform and Azure, tomorrow I'm going to try making another one and connecting them <br /> <br />
+Made a virtual machine and a virtual machine through Terraform and Azure <br /> <br />

@@ -46,8 +46,8 @@ My little #30NitesOfCode buddy, Hux, evolved (he's the little gif closer to the 
 Spent a good chunk of time learning about Terrform and getting it setup to try and work on <br />
 Terrform tutorial: https://developer.hashicorp.com/terraform/tutorials/azure-get-started/infrastructure-as-code <br /> <br />
 
-**May 7th**: Continued with Terraform and actually got through a lot of the tutorial <br />
-Did a little bit of Python on Codedex and went through a Python basics room on TryHackMe <br /> <br />
+**May 7th-8th**: Continued with Terraform and made a vm with Terraform and Azure <br />
+Did a little bit of Python on Codedex and went through some Python rooms on TryHackMe <br /> <br />
 
 ## Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />

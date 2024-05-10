@@ -49,6 +49,9 @@ Terrform tutorial: https://developer.hashicorp.com/terraform/tutorials/azure-get
 **May 7th-8th**: Continued with Terraform and made a vm with Terraform and Azure <br />
 Did a little bit of Python on Codedex and went through some Python rooms on TryHackMe <br /> <br />
 
+**May 9th**: made a second vm in Terraform and Azure, connected both of them <br />
+And on Codedex I did a little bit more of some Python, as well as some JS on TryHackMe <br /> <br />
+
 ## Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
 
@@ -86,4 +89,8 @@ Finished a Python room, counting that for both the coding and networking today <
 Python Basics room - https://tryhackme.com/r/room/pythonbasics and leveled up to level 5 <br /> <br />
 
 **May 8th**: Continued with learning VOSS, completing tickets in the ticket system and Terraform <br />
-Made a virtual machine and a virtual machine through Terraform and Azure <br /> <br />
+Made a virtual machine and a virtual network through Terraform and Azure <br /> <br />
+
+**May 9th**: Made another vm and connected it to the one I made yesterday, also moved it to another subnet <br />
+https://github.com/cDenton1/terraform-azure-vm-test posting the Terraform code and stuff here <br />
+On TryHackMe just continued with a JavaScript room, simple and light <br /> <br />

@@ -93,7 +93,7 @@ Python Basics room - https://tryhackme.com/r/room/pythonbasics and leveled up to
 
 **May 8th**: Continued with learning VOSS, completing tickets in the ticket system and Terraform <br />
 Made a virtual machine and a virtual network through Terraform and Azure <br /> 
-Began uploading my code and sharing my progress to GitHub - https://github.com/cDenton1/terraform-azure-vm-test <br /> <br />
+Began uploading my code to GitHub - https://github.com/cDenton1/terraform-azure-vm-test <br /> <br />
 
 **May 9th**: Made another vm and connected it to the one I made yesterday, also moved it to another subnet <br />
 https://github.com/cDenton1/terraform-azure-vm-test posting the Terraform code and stuff here <br />

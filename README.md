@@ -55,6 +55,8 @@ And on Codedex I did a little bit more of some Python, as well as some JS on Try
 **May 10th-12th**: worked more on Terraform, more reading an understanding downsides of it etc. <br />
 Completed a JavaScript room on THM, and worked on some JS, HTML, and command line stuff <br /> <br />
 
+**May 13th**: continued with Terrform and Azure, specifically learning modules <br /> <br />
+
 ## Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
 
@@ -100,5 +102,8 @@ https://github.com/cDenton1/terraform-azure-vm-test posting the Terraform code a
 On TryHackMe just continued with a JavaScript room, simple and light <br /> <br />
 
 **May 10th-12th**: Worked on more Terrform, connected it from another Network and did some reading on it <br />
-Completed the JS room and started and completed a PCAP Analysis room <br />
+Completed the JS room and started and completed a PCAP Analysis room, leveled up to level 6 <br />
 JS - https://tryhackme.com/r/room/javascriptbasics and PCAP - https://tryhackme.com/r/room/h4cked <br /> <br />
+
+**May 13th**: started and completed an Intro to Detection Engineering room <br />
+https://tryhackme.com/r/room/introtodetectionengineering <br /> <br />

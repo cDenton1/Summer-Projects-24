@@ -55,7 +55,8 @@ And on Codedex I did a little bit more of some Python, as well as some JS on Try
 **May 10th-12th**: worked more on Terraform, more reading an understanding downsides of it etc. <br />
 Completed a JavaScript room on THM, and worked on some JS, HTML, and command line stuff <br /> <br />
 
-**May 13th**: continued with Terrform and Azure, specifically learning modules <br /> <br />
+**May 13th**: continued with Terrform and Azure, specifically learning modules <br /> 
+And finished the command line lessons on Codedex, which was very basic stuff <br /> <br />
 
 ## Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />

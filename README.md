@@ -10,7 +10,7 @@ Besides working all summer, I also wanted to work on a bunch of projects and jus
 ## Resources
 Any sort of resource I find or someone sends me that I find useful will be linked below along with descriptions <br />
 **W3Schools** - useful for any sort of programming help in pretty much any language, https://www.w3schools.com/ <br />
-**TryHackMe Free Rooms** - literally a GitHub repository that lists only free rooms (I used this to get back into TryHackMe), https://github.com/winterrdog/tryhackme-free-rooms
+**TryHackMe Free Rooms** - literally a GitHub repository that lists only free rooms (I used this to get back into TryHackMe), https://github.com/winterrdog/tryhackme-free-rooms <br />
 
 ## Programming
 First thing I picked up for the summer, learning to code in Python and working on my coding skills overall and just in general. Main way I'm doing this is through **Codedex**, an online code editor that also includes lessons, challenges, projects and a community to work through it with. Listed below will be links and comments to some of my builds, projects, and account: <br />

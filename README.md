@@ -59,6 +59,8 @@ Completed a JavaScript room on THM, and worked on some JS, HTML, and command lin
 **May 13th**: continued with Terrform and Azure, specifically learning modules <br /> 
 And finished the command line lessons on Codedex, which was very basic stuff <br /> <br />
 
+**May 14th-15th**: began the SQL lessons on Codedex and started work on a rough and updated idea from something I started back in high school <br /> 
+
 ## Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
 
@@ -96,8 +98,7 @@ Finished a Python room, counting that for both the coding and networking today <
 Python Basics room - https://tryhackme.com/r/room/pythonbasics and leveled up to level 5 <br /> <br />
 
 **May 8th**: Continued with learning VOSS, completing tickets in the ticket system and Terraform <br />
-Made a virtual machine and a virtual network through Terraform and Azure I began uploading my code <br />
-to GitHub in another folder in this repository - 
+Made a virtual machine and a virtual network through Terraform and Azure I began uploading my code to GitHub in another folder in this repository - 
 [terraform-azure-vm-test](https://github.com/cDenton1/Summer-Projects-24/tree/main/terraform-azure-vm-test) <br /> <br />
 
 **May 9th**: Made another vm and connected it to the one I made yesterday, also moved it to another subnet <br />

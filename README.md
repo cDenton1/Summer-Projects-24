@@ -9,16 +9,16 @@ Besides working all summer, I also wanted to work on a bunch of projects and jus
 #### Project Showcases
 - ...
 - ...
-<br /> <br />
 
-| **Table of Contents**                                |
-|------------------------------------------------------|
-| [Resources](##-Resources)                            |
-| **Progress Logs**                                    |
-| [Codedex - Programming](##-Codedex---Programming)    |
-| [TryHackMe - Networking](##-TryHackMe---Networking)  |
-| **Project Showcases**                                |
-| ...                                                  |
+#| **Table of Contents**                                |
+#|------------------------------------------------------|
+#| [Resources](##-Resources)                            |
+#| **Progress Logs**                                    |
+#| [Codedex - Programming](##-Codedex---Programming)    |
+#| [TryHackMe - Networking](##-TryHackMe---Networking)  |
+#| **Project Showcases**                                |
+#| ...                                                  |
+<br /> <br />
 
 ## Resources
 Any sort of resource I find or someone sends me that I find useful will be linked below along with descriptions <br />

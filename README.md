@@ -95,11 +95,11 @@ Finished a Python room, counting that for both the coding and networking today <
 Python Basics room - https://tryhackme.com/r/room/pythonbasics and leveled up to level 5 <br /> <br />
 
 **May 8th**: Continued with learning VOSS, completing tickets in the ticket system and Terraform <br />
-Made a virtual machine and a virtual network through Terraform and Azure <br /> 
-Began uploading my code to GitHub - https://github.com/cDenton1/terraform-azure-vm-test <br /> <br />
+Made a virtual machine and a virtual network through Terraform and Azure I began uploading my code <br />
+to GitHub in another folder in this repository - 
+[terraform-azure-vm-test](https://github.com/cDenton1/Summer-Projects-24/tree/main/terraform-azure-vm-test) <br /> <br />
 
 **May 9th**: Made another vm and connected it to the one I made yesterday, also moved it to another subnet <br />
-https://github.com/cDenton1/terraform-azure-vm-test posting the Terraform code and stuff here <br />
 On TryHackMe just continued with a JavaScript room, simple and light <br /> <br />
 
 **May 10th-12th**: Worked on more Terrform, connected it from another Network and did some reading on it <br />

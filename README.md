@@ -3,10 +3,10 @@ Besides working all summer, I also wanted to work on a bunch of projects and jus
 
 ### Table of Contents
 - [Resources](##-Resources) <br />
-<br /> **Progress Logs**
+#### Progress Logs
 - [Codedex - Programming](##-Codedex---Programming)
 - [TryHackMe - Networking](##-TryHackMe---Networking) <br />
-<br /> **Project Showcases**
+#### Project Showcases
 - ...
 - ...
 <br /> <br />

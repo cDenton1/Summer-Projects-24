@@ -10,14 +10,14 @@ Besides working all summer, I also wanted to work on a bunch of projects and jus
 - ...
 - ...
 
-#| **Table of Contents**                                |
-#|------------------------------------------------------|
-#| [Resources](##-Resources)                            |
-#| **Progress Logs**                                    |
-#| [Codedex - Programming](##-Codedex---Programming)    |
-#| [TryHackMe - Networking](##-TryHackMe---Networking)  |
-#| **Project Showcases**                                |
-#| ...                                                  |
+| **Table of Contents**                                |
+|------------------------------------------------------|
+| [Resources](##-Resources)                            |
+| **Progress Logs**                                    |
+| [Codedex - Programming](##-Codedex---Programming)    |
+| [TryHackMe - Networking](##-TryHackMe---Networking)  |
+| **Project Showcases**                                |
+| ...                                                  |
 <br /> <br />
 
 ## Resources

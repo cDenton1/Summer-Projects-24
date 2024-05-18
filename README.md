@@ -16,13 +16,13 @@ Besides working all summer, I also wanted to work on a bunch of projects and jus
 Any sort of resource I find or someone sends me that I find useful will be linked below along with descriptions <br />
 **W3Schools** - useful for any sort of programming help in pretty much any language, https://www.w3schools.com/ <br />
 **TryHackMe Free Rooms** - literally a GitHub repository that lists only free rooms (I used this to get back into TryHackMe), https://github.com/winterrdog/tryhackme-free-rooms <br />
-**Udemy** - has a ton of courses and certificates for learning anything and everyting
+**Udemy** - has a ton of courses and certificates for learning anything and everyting, https://www.udemy.com/
 <br /> <br />
 
 ## Certification Progressions and Completions
 Any certification I work on and complete this summer, even short Certificates of Completions, will be listed below with the start and end date as well as a link to the credential. All of these will also be added to my LinkedIn, hopefully as I'm completing them, but this is to show how long it has taken me and maybe even some notes on them: <br />
 
-**My LinkedIn**: ... <br /> <br />
+**My LinkedIn**: https://www.linkedin.com/in/chloe-denton/ <br /> <br />
 
 **Deploying Your First Resources in Azure** - Started and completed May 17th <br />
 Pretty much everything I had worked on over the last two weeks but instead of programming it through Terraform, <br />

@@ -9,15 +9,6 @@ Besides working all summer, I also wanted to work on a bunch of projects and jus
 #### Project Showcases
 - ...
 - ...
-
-| **Table of Contents**                                |
-|------------------------------------------------------|
-| [Resources](##-Resources)                            |
-| **Progress Logs**                                    |
-| [Codedex - Programming](##-Codedex---Programming)    |
-| [TryHackMe - Networking](##-TryHackMe---Networking)  |
-| **Project Showcases**                                |
-| ...                                                  |
 <br /> <br />
 
 ## Resources
@@ -75,6 +66,10 @@ And finished the command line lessons on Codedex, which was very basic stuff <br
 **May 14th-15th**: Began the SQL lessons on Codedex and started work on a rough <br />
 and updated idea from something I thought of and started on back in high school <br /> <br />
 
+**May 16th**: Started working on this messing around with some code from the idea I mentioned above <br />
+
+**May 17th**: Continued with the SQL lessons on Codedex and finsihed an Azure certification for work <br />
+
 ## Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />
 
@@ -125,3 +120,7 @@ JS - https://tryhackme.com/r/room/javascriptbasics and PCAP - https://tryhackme.
 
 **May 13th**: started and completed an Intro to Detection Engineering room <br />
 https://tryhackme.com/r/room/introtodetectionengineering <br /> <br />
+
+**May 14th-17th**: Working through a History of Malware room and continued to work with VOSS <br />
+https://tryhackme.com/r/room/historyofmalware <br />
+Also got a certification for Azure and started a certification for Exchange <br /> <br />

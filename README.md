@@ -84,7 +84,8 @@ and updated idea from something I thought of and started on back in high school 
 **May 16th**: Started working on messing around with some code from the idea I mentioned above <br />
 Originally trying it with HTML but considering switching to Python and making it an app instead <br /> <br />
 
-**May 17th**: Continued with the SQL lessons on Codedex and finsihed an Azure certification for work <br /> <br />
+**May 17th**: Continued with the SQL lessons on Codedex and finsihed an Azure certification for work <br /> 
+https://www.udemy.com/certificate/UC-d3f91935-f233-4262-a79e-f4b351cc27db/ <br /> <br />
 
 ## Networking
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be comments on progress from that day and links to rooms I've worked through/ completed and my account: <br />

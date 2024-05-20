@@ -14,7 +14,7 @@ Besides working all summer, I also wanted to work on a bunch of projects and jus
 <br /> <br />
 
 ## Progress Logs
-Progress logs will be kept in the corresponding directory in the README.md files. These will be kept for programming, for my job, just in general, or for Codedex and their #30NitesOfCode challenge. As well as networking, either for my job, courses I'm taking or TryHackMe <br />
+Progress logs will be kept in the corresponding directory and outlined in those README.md files. These will be kept for programming, which can be for my job, just in general, or for Codedex and their #30NitesOfCode challenge. As well as networking, which again can be for either for my job, courses I'm taking, or TryHackMe <br />
 **TryHackMe Account**: https://tryhackme.com/p/cDenton <br />
 **Codedex Account**: https://www.codedex.io/@treegoat1 <br />
 **#30NitesOfCode**: [Check out my progress!](https://www.codedex.io/@treegoat1/30-nites-of-code) <br />

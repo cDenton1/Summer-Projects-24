@@ -54,3 +54,8 @@ https://tryhackme.com/r/room/introtodetectionengineering <br /> <br />
 **May 14th-17th**: Working through a History of Malware room and continued to work with VOSS <br />
 Also finished a certificate for Azure today and started one for Exchange <br />
 The THM room - https://tryhackme.com/r/room/historyofmalware <br /> <br />
+
+**May 18th-19th**: Finished the History of Malware room, linked above <br /> <br />
+
+**May 20th**: Began working on some windows rooms starting with Windows Fundamentals 1 room <br />
+WF Room 1/3 - https://tryhackme.com/r/room/windowsfundamentals1xbx <br /> <br />

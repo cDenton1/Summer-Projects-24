@@ -25,7 +25,7 @@ Progress logs will be kept in the corresponding directory and outlined in those 
 Any sort of resource I find or someone sends me that I find useful will be linked below along with descriptions <br />
 **W3Schools** - useful for any sort of programming help in pretty much any language, https://www.w3schools.com/ <br />
 **TryHackMe Free Rooms** - literally a GitHub repository that lists only free rooms (I used this to get back into TryHackMe), https://github.com/winterrdog/tryhackme-free-rooms <br />
-**Udemy** - has a ton of courses and certificates for learning anything and everyting, https://www.udemy.com/
+**Udemy** - has a ton of courses and certificates for learning anything and everything, https://www.udemy.com/
 <br /> <br />
 
 ## Certification Progressions and Completions

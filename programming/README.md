@@ -56,3 +56,5 @@ Originally trying it with HTML but considering switching to Python and making it
 https://www.udemy.com/certificate/UC-d3f91935-f233-4262-a79e-f4b351cc27db/ <br /> <br />
 
 **May 18th-19th**: Finished all of the SQL lessons on Codedex, Queries and Aggregates <br /> <br />
+
+**May 20th-21th**: Working through the HTML lessons on Codedex <br /> <br />

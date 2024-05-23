@@ -57,5 +57,8 @@ The THM room - https://tryhackme.com/r/room/historyofmalware <br /> <br />
 
 **May 18th-19th**: Finished the History of Malware room, linked above <br /> <br />
 
-**May 20th**: Began working on some windows rooms starting with Windows Fundamentals 1 room <br />
+**May 20th-21th**: Began working on and completed some windows rooms starting with Windows Fundamentals 1 room <br />
 WF Room 1/3 - https://tryhackme.com/r/room/windowsfundamentals1xbx <br /> <br />
+
+**May 22th**: Decided to take a break from Windows Fundamentals and do a Wireshark basics room <br />
+Wireshark: The Basics - https://tryhackme.com/r/room/wiresharkthebasics <br /> <br />

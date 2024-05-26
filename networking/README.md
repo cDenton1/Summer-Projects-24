@@ -2,7 +2,8 @@
 Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be my log that includes comments on progress from that day and links to the rooms I've worked through/completed and my account: <br />
 
 **My Account**: https://tryhackme.com/p/cDenton <br /> 
-**List of All Possible Badges**: https://tryhackme.com/r/badges <br /> <br />
+**List of Possible Badges**: https://tryhackme.com/r/badges <br />
+**List of Completed Rooms**: https://github.com/cDenton1/Summer-Projects-24/blob/main/networking/THMRooms.md <br/> <br />
 
 **April 29th**: Completed the first room, started the second but had taken a break to try some other ones <br />
 https://tryhackme.com/r/room/linuxfilesystemanalysis and https://tryhackme.com/r/room/linuxmodules <br /> <br />
@@ -73,5 +74,5 @@ Web Application Security - https://tryhackme.com/r/room/introwebapplicationsecur
 Intro to IR and IM - https://tryhackme.com/r/room/introtoirandim <br />
 Traffic Analysis Essentials - https://tryhackme.com/r/room/trafficanalysisessentials <br /> 
 Wireshark: The Basics - https://tryhackme.com/r/room/wiresharkthebasics <br /> 
-Starting Out In Cyber Sec - https://tryhackme.com/r/room/startingoutincybersec <br /> <br />
-Started another intro room, Introductory Researching - https://tryhackme.com/r/room/introtoresearch <br />
+Starting Out In Cyber Sec - https://tryhackme.com/r/room/startingoutincybersec <br />
+Started another intro room, Introductory Researching - https://tryhackme.com/r/room/introtoresearch <br /> <br />

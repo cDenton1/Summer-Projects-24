@@ -1,5 +1,5 @@
 ### Completed TryHackMe Rooms
-All the room links from my README log file minus all the extra comments and anything not THM related, chronological order and if it's a paid room <br /> <br />
+All the room links from my README log file minus the comments and anything not THM related, chronological order and if it's a paid room <br />
 
 1. [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
 2. [Linux Fundamentals Part 1](https://tryhackme.com/r/room/linuxfundamentalspart1)

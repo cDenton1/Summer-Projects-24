@@ -68,7 +68,10 @@ Security Engineering Intro - https://tryhackme.com/r/room/securityengineerintro 
 **May 25th**: Anther simple room because I waited until late at night to do it <br />
 Intro to Digital Forensics - https://tryhackme.com/r/room/introdigitalforensics <br /> <br />
 
-**May 26th**: started and completed two intro rooms and an essentials room <br />
+**May 26th**: completed three intro rooms, an essentials room and the Wireshark room from earlier in the week <br />
 Web Application Security - https://tryhackme.com/r/room/introwebapplicationsecurity <br /> 
 Intro to IR and IM - https://tryhackme.com/r/room/introtoirandim <br />
-Traffic Analysis Essentials - https://tryhackme.com/r/room/trafficanalysisessentials <br /> <br />
+Traffic Analysis Essentials - https://tryhackme.com/r/room/trafficanalysisessentials <br /> 
+Wireshark: The Basics - https://tryhackme.com/r/room/wiresharkthebasics <br /> 
+Starting Out In Cyber Sec - https://tryhackme.com/r/room/startingoutincybersec <br /> <br />
+Started another intro room, Introductory Researching - https://tryhackme.com/r/room/introtoresearch <br />

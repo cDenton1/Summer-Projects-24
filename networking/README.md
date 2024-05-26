@@ -63,7 +63,7 @@ WF Room 1/3 - https://tryhackme.com/r/room/windowsfundamentals1xbx <br /> <br />
 **May 22nd-23rd**: Decided to take a break from Windows Fundamentals and work on a Wireshark basics room <br />
 Wireshark: The Basics - https://tryhackme.com/r/room/wiresharkthebasics <br /> <br />
 
-**May 24th**: Stuck with a simple room, Intro to Security Engineering. Completed it and earned a badge <br />
+**May 24th**: Did a simple room, Intro to Security Engineering, completed it and earned the **Introduction to Security Engineering** badge <br />
 Security Engineering Intro - https://tryhackme.com/r/room/securityengineerintro <br /> <br />
 
 **May 25th**: Anther simple room because I waited until late at night to do it <br />

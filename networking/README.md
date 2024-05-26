@@ -1,7 +1,5 @@
 ## Networking
-Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource 
-for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be my log that includes comments on progress from that day and links 
-to the rooms I've worked through/completed and my account: <br />
+Continuing on the path of learning new things but also working on and practicing some skills I've already learned was definitly something I wanted to do. For this I'm using **TryHackMe**, an online resource for learning everything and anything networking and security related. Highly recommended by classmates and professors. Listed below will be my log that includes comments on progress from that day and links to the rooms I've worked through/completed and my account: <br />
 
 **My Account**: https://tryhackme.com/p/cDenton <br /> <br />
 
@@ -65,3 +63,6 @@ Wireshark: The Basics - https://tryhackme.com/r/room/wiresharkthebasics <br /> <
 
 **May 24th**: Stuck with a simple room, Intro to Security Engineering. Completed it and earned a badge <br />
 Security Engineering Intro - https://tryhackme.com/r/room/securityengineerintro <br /> <br />
+
+**May 25th**: Anther simple room because I waited until late at night to do it <br />
+Intro to Digital Forensics - https://tryhackme.com/r/room/introdigitalforensics <br /> <br />

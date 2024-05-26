@@ -57,5 +57,6 @@ https://www.udemy.com/certificate/UC-d3f91935-f233-4262-a79e-f4b351cc27db/ <br /
 
 **May 18th-19th**: Finished all of the SQL lessons on Codedex, Queries and Aggregates <br /> <br />
 
-**May 20th-24th**: Working through the HTML lessons on Codedex <br /> 
-Learning PowerShell scripting and automation for work, see the file **mailboxPerms.ps1** <br /> <br />
+**May 20th-26th**: Working through the HTML lessons on Codedex <br /> 
+Learning PowerShell scripting and automation for work, see the subdirectory **PowerShell_Scripts** <br /> 
+https://github.com/cDenton1/Summer-Projects-24/tree/main/programming/PowerShell_Scripts <br /> <br />

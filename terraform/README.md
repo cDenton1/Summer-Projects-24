@@ -1,5 +1,6 @@
 ## All the files used to create a VM in Terraform and Azure
-### terraform-azure-vm-test
+### terraform-azure-vm-test 
+https://github.com/cDenton1/Summer-Projects-24/tree/main/terraform/terraform-azure-vm-test <br />
 https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform?tabs=azure-cli <br /> <br />
 
 | **Files**     | Purpose                                        |
@@ -22,3 +23,7 @@ https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terr
 | Successful    | Break up the files more (variables, vms, etc.) |
 | Successful    | Connect the VMs on seperate networks           |
 | Successful    | Create a module and import/use it (not here)   |
+
+### timed-test
+https://github.com/cDenton1/Summer-Projects-24/tree/main/terraform/timed-test <br />
+I wanted to see how long it would take for me to setup two VM's on two seperate networks from scratch, minimize the use of previous setups and then connect between the two using netcat instead of just pinging the other machine. It had taken a little over an hour with a time of 1:00:02.95, all the code is included in the subdirectory linked above.

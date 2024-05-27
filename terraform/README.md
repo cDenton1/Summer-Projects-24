@@ -13,8 +13,6 @@ Tutorial - https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-
 | VM(#).tf      | Conatins set resources for that designated VM  |
 | route.tf      | Conatins resources for peering routes          |
 
-<br />
-
 | **Status**    | Challenges                                     |
 |---------------|:----------------------------------------------:|
 | Successful    | Create a VM in Terraform and Azure             |

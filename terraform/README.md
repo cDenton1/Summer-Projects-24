@@ -1,7 +1,7 @@
 ## All the files used to create a VM in Terraform and Azure
 ### terraform-azure-vm-test 
 Subdirectory - https://github.com/cDenton1/Summer-Projects-24/tree/main/terraform/terraform-azure-vm-test <br />
-Tutorial - https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform?tabs=azure-cli <br /> <br />
+Tutorial - https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform?tabs=azure-cli <br />
 
 | **Files**     | Purpose                                        |
 |---------------|:----------------------------------------------:|
@@ -23,6 +23,8 @@ Tutorial - https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-
 | Successful    | Break up the files more (variables, vms, etc.) |
 | Successful    | Connect the VMs on seperate networks           |
 | Successful    | Create a module and import/use it (not here)   |
+
+<br />
 
 ### timed-test
 Timed Test - https://github.com/cDenton1/Summer-Projects-24/tree/main/terraform/timed-test <br />

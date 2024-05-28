@@ -24,3 +24,4 @@ All the room links from my README log file minus the comments and anything not T
 21. [Traffic Analysis Essentials](https://tryhackme.com/r/room/trafficanalysisessentials)
 22. [Wireshark: The Basics](https://tryhackme.com/r/room/wiresharkthebasics)
 23. [Starting Out In Cyber Sec](https://tryhackme.com/r/room/startingoutincybersec)
+24. [Introductory Research](https://tryhackme.com/r/room/introtoresearch)

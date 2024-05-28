@@ -60,3 +60,6 @@ https://www.udemy.com/certificate/UC-d3f91935-f233-4262-a79e-f4b351cc27db/ <br /
 **May 20th-26th**: Working through the HTML lessons on Codedex <br /> 
 Learning PowerShell scripting and automation for work, see the subdirectory **PowerShell_Scripts** <br /> 
 https://github.com/cDenton1/Summer-Projects-24/tree/main/programming/PowerShell_Scripts <br /> <br />
+
+**May 27th**: Completed the **#30NitesOfCode** challenge on Codedex! https://x.com/ClickCreated/status/1795249692412096831 <br />
+Just did a timed-test in Terraform today to keep it lighter on the programming and also I fun way to end off this challenge <br /> <br />

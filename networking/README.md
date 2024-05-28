@@ -76,3 +76,6 @@ Traffic Analysis Essentials - https://tryhackme.com/r/room/trafficanalysisessent
 Wireshark: The Basics - https://tryhackme.com/r/room/wiresharkthebasics <br /> 
 Starting Out In Cyber Sec - https://tryhackme.com/r/room/startingoutincybersec <br />
 Started another intro room, Introductory Researching - https://tryhackme.com/r/room/introtoresearch <br /> <br />
+
+**May 27th**: completed the Introuctory Reasearching room that I started yesterday, found another free room at the end of that one <br />
+https://tryhackme.com/r/room/introtoresearch also leveled up to level 7 when I completed the room <br /> <br />

@@ -79,3 +79,6 @@ Started another intro room, Introductory Researching - https://tryhackme.com/r/r
 
 **May 27th**: completed the Introuctory Reasearching room that I started yesterday, found another free room at the end of that one <br />
 https://tryhackme.com/r/room/introtoresearch also leveled up to level 7 when I completed the room <br /> <br />
+
+**May 28th**: started working on an Nmap room - https://tryhackme.com/r/room/furthernmap <br />
+Also earned the **30 Day Streak** badge today, proud of my streak so far! <br /> <br />

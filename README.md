@@ -38,6 +38,6 @@ Pretty much everything I had worked on over the last two weeks but instead of pr
 everything was done through the portal online, but this showed another possible way of setting this stuff up <br />
 Certificate: https://www.udemy.com/certificate/UC-d3f91935-f233-4262-a79e-f4b351cc27db/ <br /> <br />
 
-**Exchange Server & Exchange Online** Started May 17th and completed May 30th <br />
+**Exchange Server & Exchange Online** - Started May 17th and completed May 30th <br />
 In depth course on ton of concepts within Microsoft Exchange On-Premise and Microsoft Exchange Online <br />
 Certificate: https://www.udemy.com/certificate/UC-8ed9aa78-a1ba-44f8-b760-ffb648eeeb44/ <br /> <br />

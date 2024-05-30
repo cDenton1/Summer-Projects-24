@@ -9,7 +9,8 @@ Continuing on the path of learning new things but also working on and practicing
 https://tryhackme.com/r/room/linuxfilesystemanalysis and https://tryhackme.com/r/room/linuxmodules <br /> <br />
 
 **April 30th**: Went through some fundamentals and got my second badge, **cat linux.txt** <br /> 
-https://tryhackme.com/r/room/linuxfundamentalspart1 and https://tryhackme.com/r/room/linuxfundamentalspart2 <br /> <br />
+https://tryhackme.com/r/room/linuxfundamentalspart1 and https://tryhackme.com/r/room/linuxfundamentalspart2 <br /> 
+<img src="https://assets.tryhackme.com/room-badges/ef5a5b8fdca70c0e2e0fdf0971d606c5.png"> <br /> <br />
 
 **May 1st**: Finished the fundamentals and leveled up to level 4 <br />
 https://tryhackme.com/r/room/linuxfundamentalspart3 <br />
@@ -27,7 +28,8 @@ https://tryhackme.com/r/room/howtousetryhackme and https://tryhackme.com/r/room/
 
 **May 5th**: Completed another introduction room, this time for SIEM <br />
 Also got my third badge, **7 Day Streak**, aiming to keep a streak going all summer if possible <br />
-https://tryhackme.com/r/room/introtosiem <br /> <br />
+Intro to SIEM - https://tryhackme.com/r/room/introtosiem <br /> 
+<img src="https://assets.tryhackme.com/room-badges/180188ef0f60187908ed6246eda6721c.png"> <br /> <br />
 
 **May 6th**: Started my new job today at CNRL and got to learn abit about VOSS and the phone system <br />
 Did a little bit of networking on THM, https://tryhackme.com/r/room/introtonetworking <br /> <br />
@@ -64,7 +66,8 @@ WF Room 1/3 - https://tryhackme.com/r/room/windowsfundamentals1xbx <br /> <br />
 Wireshark: The Basics - https://tryhackme.com/r/room/wiresharkthebasics <br /> <br />
 
 **May 24th**: Did a simple room, Intro to Security Engineering, completed it and earned the **Introduction to Security Engineering** badge <br />
-Security Engineering Intro - https://tryhackme.com/r/room/securityengineerintro <br /> <br />
+Security Engineering Intro - https://tryhackme.com/r/room/securityengineerintro <br /> 
+<img src="https://assets.tryhackme.com/room-badges/e7fa6f5c122c94e3daef5f2f797a1405.png"> <br /> <br />
 
 **May 25th**: Anther simple room because I waited until late at night to do it <br />
 Intro to Digital Forensics - https://tryhackme.com/r/room/introdigitalforensics <br /> <br />
@@ -80,5 +83,6 @@ Started another intro room, Introductory Researching - https://tryhackme.com/r/r
 **May 27th**: completed the Introuctory Reasearching room that I started yesterday, found another free room at the end of that one <br />
 https://tryhackme.com/r/room/introtoresearch also leveled up to level 7 when I completed the room <br /> <br />
 
-**May 28th**: started working on an Nmap room - https://tryhackme.com/r/room/furthernmap <br />
-Also earned the **30 Day Streak** badge today, proud of my streak so far! <br /> <br />
+**May 28th-29th**: started working on an Nmap room - https://tryhackme.com/r/room/furthernmap <br />
+Also earned the **30 Day Streak** badge today (specifically the 28th), proud of my streak so far! <br /> 
+<img src="https://assets.tryhackme.com/room-badges/3436cc4ca1458551223edd2c4c7ca099.png"> <br /> <br />

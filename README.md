@@ -30,8 +30,7 @@ Any sort of resource I find or someone sends me that I find useful will be linke
 <br /> <br />
 
 ## Certification Progressions and Completions
-Any certification I work on and complete this summer, even short Certificates of Completions, will be listed below with the start and end date as well as a link to the credential. All of these will also be added to my LinkedIn, hopefully as I'm completing them, but this is to show how long it has taken me and maybe even some notes on them: <br />
-**My LinkedIn**: https://www.linkedin.com/in/chloe-denton/ <br /> <br />
+Any certification I work on and complete this summer, even short Certificates of Completions, will be listed below with the start and end date as well as a link to the credential. All of these will also be added to my LinkedIn, hopefully as I'm completing them, but this is to show how long it has taken me and maybe even some notes on them: **My LinkedIn**: https://www.linkedin.com/in/chloe-denton/ <br /> <br />
 
 **Deploying Your First Resources in Azure** - Started and completed May 17th <br />
 Pretty much everything I had worked on over the last two weeks but instead of programming it through Terraform, <br />

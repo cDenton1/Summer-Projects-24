@@ -43,6 +43,7 @@ In depth course on ton of concepts within Microsoft Exchange On-Premise and Micr
 Certificate: https://www.udemy.com/certificate/UC-8ed9aa78-a1ba-44f8-b760-ffb648eeeb44/ <br /> <br />
 
 **Master Microsoft PowerShell** - Started and completed May 31st <br />
-Short simple course of PowerShell scripting. I have had the chance to work with scripting prior to this, that was more hands-on <br />
-and more of me figuring out how PowerShell worked compared to this, but this was nice to have an actual explanation. <br />
+Short simple course of PowerShell scripting. I have had the chance to work with scripting prior to this, that was <br />
+more hands-on and more of me figuring out how PowerShell worked compared to this, but this was nice to have an actual <br />
+explanation of scripting besides me just guessing. <br />
 Certificate: https://www.udemy.com/certificate/UC-fd5232d1-4611-43bf-a3b1-fc4023da3cc6/ <br /> <br />

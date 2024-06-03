@@ -46,3 +46,7 @@ Short simple course of PowerShell scripting. I have had the chance to work with 
 more hands-on and more of me figuring out how PowerShell worked compared to this, but this was nice to have <br /> 
 an actual explanation of scripting besides me just guessing. <br />
 Certificate: https://www.udemy.com/certificate/UC-fd5232d1-4611-43bf-a3b1-fc4023da3cc6/ <br /> <br />
+
+**Terrform for the Absoluet Beginners** - Started May 31st and completed TBD <br />
+... <br />
+Certificate: to be added... <br /> <br />

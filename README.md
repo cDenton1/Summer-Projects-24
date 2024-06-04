@@ -50,3 +50,4 @@ Certificate: https://www.udemy.com/certificate/UC-fd5232d1-4611-43bf-a3b1-fc4023
 **Terrform for the Absoluet Beginners** - Started May 31st and completed TBD <br />
 ... <br />
 Certificate: to be added... <br /> <br />
+https://cnrl.udemy.com/certificate/UC-1ac3de85-e864-4ed7-b2ca-8cf795cfcfa6/ deal with link

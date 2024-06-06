@@ -63,3 +63,7 @@ https://github.com/cDenton1/Summer-Projects-24/tree/main/programming/PowerShell_
 
 **May 27th**: Completed the **#30NitesOfCode** challenge on Codedex! https://x.com/ClickCreated/status/1795249692412096831 <br />
 Just did a timed-test in Terraform today to keep it lighter on the programming and also I fun way to end off this challenge <br /> <br />
+
+**May 28th-June 5th**: finished all the free HTML lessons on Codedex, finished a PowerShell scripting course <br />
+for work, finished a Terraform course for work and have been working on my personal project with embedding the <br />
+map into the website and figuring out how to get that working how I'd like (will be changing it) <br /> <br />

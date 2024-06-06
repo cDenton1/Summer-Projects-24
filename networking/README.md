@@ -84,5 +84,5 @@ https://tryhackme.com/r/room/introtoresearch also leveled up to level 7 when I c
 Also earned the **30 Day Streak** badge today (specifically the 28th), proud of my streak so far! <br /> 
 <img src="https://assets.tryhackme.com/room-badges/3436cc4ca1458551223edd2c4c7ca099.png"> <br /> <br />
 
-**June 1st-5th**: working through a Google Dorking room, taking it slow as I honestly haven't had the motivation <br />
+**May 31st-June 5th**: working through a Google Dorking room, taking it slow as I honestly haven't had the motivation <br />
 Google Dorking - https://tryhackme.com/r/room/googledorking <br /> <br />

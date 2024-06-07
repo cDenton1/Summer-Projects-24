@@ -25,3 +25,4 @@ All the room links from my README log file minus the comments and anything not T
 22. [Wireshark: The Basics](https://tryhackme.com/r/room/wiresharkthebasics)
 23. [Starting Out In Cyber Sec](https://tryhackme.com/r/room/startingoutincybersec)
 24. [Introductory Research](https://tryhackme.com/r/room/introtoresearch)
+25. [Google Dorking](https://tryhackme.com/r/room/googledorking)

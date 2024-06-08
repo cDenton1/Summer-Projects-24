@@ -81,10 +81,14 @@ Started another intro room, Introductory Researching - https://tryhackme.com/r/r
 https://tryhackme.com/r/room/introtoresearch also leveled up to level 7 when I completed the room <br /> <br />
 
 **May 28th-30th**: started working on and completed an Nmap room - https://tryhackme.com/r/room/furthernmap <br />
-Also earned the **30 Day Streak** badge today (specifically the 28th), proud of my streak so far! <br /> 
+Also earned the **30 Day Streak** badge today (specifically on the 28th), proud of my streak so far! <br /> 
 <img src="https://assets.tryhackme.com/room-badges/3436cc4ca1458551223edd2c4c7ca099.png"> <br /> <br />
 
 **May 31st-June 6th**: started working through and completed a Google Dorking room, taking it slow as I honestly <br />
 haven't had the motivation, Google Dorking - https://tryhackme.com/r/room/googledorking <br /> <br />
 
 **June 7th**: started working on a email phishing room https://tryhackme.com/r/room/phishingemails1tryoe <br /> <br />
+
+**June 8th**: continued working on the room I started yesterday but also did a quick challenge room <br />
+Completed the room and gained **OhSINT** badge, the room OhSINT - https://tryhackme.com/r/room/ohsint <br />
+<img src="https://github.com/cDenton1/Summer-Projects-24/assets/163344926/f9e18ae7-cc97-4f8a-9f81-05711a5bce3f"> <br /> <br />

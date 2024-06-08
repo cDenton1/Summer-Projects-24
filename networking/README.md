@@ -86,3 +86,5 @@ Also earned the **30 Day Streak** badge today (specifically the 28th), proud of 
 
 **May 31st-June 6th**: started working through and completed a Google Dorking room, taking it slow as I honestly <br />
 haven't had the motivation, Google Dorking - https://tryhackme.com/r/room/googledorking <br /> <br />
+
+**June 7th**: started working on a email phishing room https://tryhackme.com/r/room/phishingemails1tryoe <br /> <br />

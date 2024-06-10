@@ -89,6 +89,7 @@ haven't had the motivation, Google Dorking - https://tryhackme.com/r/room/google
 
 **June 7th**: started working on a email phishing room https://tryhackme.com/r/room/phishingemails1tryoe <br /> <br />
 
-**June 8th**: continued working on the room I started yesterday but also did a quick challenge room <br />
+**June 8th-9th**: continued working on and finsihed the room I started on the 7th but also did a quick challenge room <br />
 Completed the room and gained **OhSINT** badge, the room OhSINT - https://tryhackme.com/r/room/ohsint <br />
-<img src="https://github.com/cDenton1/Summer-Projects-24/assets/163344926/f9e18ae7-cc97-4f8a-9f81-05711a5bce3f"> <br /> <br />
+<img src="https://github.com/cDenton1/Summer-Projects-24/assets/163344926/f9e18ae7-cc97-4f8a-9f81-05711a5bce3f"> <br /> 
+Phishing Analysis Fundamentals - https://tryhackme.com/r/room/phishingemails1tryoe <br /> <br />

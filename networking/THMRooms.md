@@ -27,3 +27,4 @@ All the room links from my README log file minus the comments and anything not T
 24. [Introductory Research](https://tryhackme.com/r/room/introtoresearch)
 25. [Google Dorking](https://tryhackme.com/r/room/googledorking)
 26. [OhSINT](https://tryhackme.com/r/room/ohsint)
+27. [Phishing Analysis Fundamentals](https://tryhackme.com/r/room/phishingemails1tryoe)

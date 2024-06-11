@@ -47,7 +47,7 @@ more hands-on and more of me figuring out how PowerShell worked compared to this
 an actual explanation of scripting besides me just guessing. <br />
 Certificate: https://www.udemy.com/certificate/UC-fd5232d1-4611-43bf-a3b1-fc4023da3cc6/ <br /> <br />
 
-**Terrform for the Absoluet Beginners** - Started May 31st and completed June 4th <br />
+**Terrform for the Absolute Beginners** - Started May 31st and completed June 4th <br />
 Everything I initially worked on in the first two weeks of my job but with some more explanations, <br />
 included questions and simulated hands-on labs which were extremely helpful and useful for learning. <br />
 Certificate: https://udemy.com/certificate/UC-1ac3de85-e864-4ed7-b2ca-8cf795cfcfa6/ <br /> <br />

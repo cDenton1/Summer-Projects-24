@@ -26,4 +26,8 @@ Tutorial - https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-
 
 ### timed-test
 Subdirectory - https://github.com/cDenton1/Summer-Projects-24/tree/main/terraform/timed-test <br />
-I wanted to see how long it would take for me to setup two VM's on two seperate networks from scratch, minimize the use of previous setups and then connect between the two using netcat instead of just pinging the other machine. It had taken a little over an hour with a time of **1:00:02.95**, all the code is included in the subdirectory linked above.
+I wanted to see how long it would take for me to setup two VM's on two seperate networks from scratch, minimize the use of previous setups and then connect between the two using netcat instead of just pinging the other machine. It had taken a little over an hour with a time of **1:00:02.95**, all the code is included in the subdirectory linked above. <br /> <br />
+
+### used-for-modules
+Subdirectory - https://github.com/cDenton1/Summer-Projects-24/tree/main/terraform/used-for-modules <br />
+Honestly not really sure, to start it just has one tf file that is used at my work as a module for storage accounts, learn how it works and read up on it. Trying to make a storage account using it I'm not sure if I'm on the right track or not. <br /> <br />

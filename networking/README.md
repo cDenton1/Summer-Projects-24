@@ -93,3 +93,6 @@ haven't had the motivation, Google Dorking - https://tryhackme.com/r/room/google
 Completed the room and gained **OhSINT** badge, the room OhSINT - https://tryhackme.com/r/room/ohsint <br />
 <img src="https://github.com/cDenton1/Summer-Projects-24/assets/163344926/f9e18ae7-cc97-4f8a-9f81-05711a5bce3f"> <br /> 
 Phishing Analysis Fundamentals - https://tryhackme.com/r/room/phishingemails1tryoe <br /> <br />
+
+**June 10th**: continued with another phishing room, specifically emails in action <br />
+Phishing Emails in Action - https://tryhackme.com/r/room/phishingemails2rytmuv <br /> <br />

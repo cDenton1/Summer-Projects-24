@@ -67,3 +67,6 @@ Just did a timed-test in Terraform today to keep it lighter on the programming a
 **May 28th-June 5th**: finished all the free HTML lessons on Codedex, finished a PowerShell scripting course <br />
 for work, finished a Terraform course for work and have been working on my personal project with embedding the <br />
 map into the website and figuring out how to get that working how I'd like (will be changing it) <br /> <br />
+
+**June 6th-10th**: continued with my personal project [Campus_Directory](https://github.com/cDenton1/Summer-Projects-24/tree/main/programming/Campus_Directory) and added the code to GitHub <br />
+Also began working on the CSS lessons on Codedex since I if I go with webpage there is a lot of visual elements <br /> <br />

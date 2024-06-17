@@ -97,5 +97,5 @@ Phishing Analysis Fundamentals - https://tryhackme.com/r/room/phishingemails1try
 **June 10th-13th**: continued with and finished another phishing room, specifically emails in action <br />
 Phishing Emails in Action - https://tryhackme.com/r/room/phishingemails2rytmuv <br /> <br />
 
-**June 14th**: started a room about a possible job, junior security analyst intro <br />
+**June 14th-16th**: started and finished a room about a possible job, junior security analyst intro <br />
 Junior Security Analyst Intro - https://tryhackme.com/r/room/jrsecanalystintrouxo <br /> <br />

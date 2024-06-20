@@ -70,3 +70,7 @@ map into the website and figuring out how to get that working how I'd like (will
 
 **June 6th-16th**: continued with my personal project [Campus_Directory](https://github.com/cDenton1/Summer-Projects-24/tree/main/programming/Campus_Directory) and added the code to GitHub <br />
 Also began working on the CSS lessons on Codedex since I if I go with webpage there is a lot of visual elements <br /> <br />
+
+**June 17th-19th**: in my free time I've been working on my personal project and continued with some of the CSS lessons on Codedex <br />
+At work I've continued with Terraform, coded a storage account and now learning about private endpoints and working to add <br />
+some to the storage account, hoping to finish that by the end of this week. <br /> <br />

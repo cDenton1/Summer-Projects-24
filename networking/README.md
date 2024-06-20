@@ -99,3 +99,6 @@ Phishing Emails in Action - https://tryhackme.com/r/room/phishingemails2rytmuv <
 
 **June 14th-16th**: started and finished a room about a possible job, junior security analyst intro <br />
 Junior Security Analyst Intro - https://tryhackme.com/r/room/jrsecanalystintrouxo <br /> <br />
+
+**June 17th-19th**: started working through a room about the Pyramid Of Pain, more challenging than I expected <br />
+Pyramid of Pain - https://tryhackme.com/r/room/pyramidofpainax <br /> <br />

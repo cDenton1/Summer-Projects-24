@@ -30,3 +30,4 @@ All the room links from my README log file minus the comments and anything not T
 27. [Phishing Analysis Fundamentals](https://tryhackme.com/r/room/phishingemails1tryoe)
 28. [Phishing Emails in Action](https://tryhackme.com/r/room/phishingemails2rytmuv)
 29. [Junior Security Analyst Intro](https://tryhackme.com/r/room/jrsecanalystintrouxo)
+30. [Pyramid Of Pain](https://tryhackme.com/r/room/pyramidofpainax)

@@ -100,5 +100,10 @@ Phishing Emails in Action - https://tryhackme.com/r/room/phishingemails2rytmuv <
 **June 14th-16th**: started and finished a room about a possible job, junior security analyst intro <br />
 Junior Security Analyst Intro - https://tryhackme.com/r/room/jrsecanalystintrouxo <br /> <br />
 
+**June 17th-24**: 1 week focused on starting and completing a room about the Pyramid Of Pain <br />
+Pyramid Of Pain - https://tryhackme.com/r/room/pyramidofpainax <br /> <br />
+
 **June 17th-19th**: started working through a room about the Pyramid Of Pain, more challenging than I expected <br />
-Pyramid of Pain - https://tryhackme.com/r/room/pyramidofpainax <br /> <br />
+Pyramid of Pain - https://tryhackme.com/r/room/pyramidofpainax <br />
+Leveled up to level 9 on the 18th as well, day before finishing the room <br /> <br />
+

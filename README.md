@@ -1,3 +1,6 @@
+### Small Update - November
+If you're interested in what this repository has to offer, feel to read past this update portion, just be aware that around some point in June I stopped updating it and this section will include why. Easy, I just kind of stopped, don't get me wrong I was still working hard and learning new things at my job but outside of work I began just focusing on other other hobbies that weren't this. Now I'm back in school full time in for this, continuing to learn more, and also working part time as a VR Tech. Back on Nov 2nd I even placed 3rd in the teams brack of the Infected Networks CTF hosted by SAIT and some clubs.  I have so many ideas I want to try and work on so hopefully I will try something similar to this in the future. <br/> <br/>
+
 # Summer-Projects-24
 Besides working all summer, I also wanted to work on a bunch of projects and just continue learning as well. That is why I made this repository, a way for me to easily compile everything and anything I worked on in one place; small projects, big projects, useful resources, whatever. All of it will be accessible through links on this file or folders in the repository. Keeps me accountable to update, gives me something to look back on in the fall, and might even motivate me to do again next summer. <br /> <br />
 
